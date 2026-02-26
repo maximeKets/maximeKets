@@ -2,8 +2,11 @@
 
 ### 👨‍💻 À propos de moi
 - 💼 Développeur **Full-Stack et IA** expérimenté, spécialisé particulièrement en **Python (Django)** et **PHP (Laravel)**. J'ai conçu et déployé des solutions complexes : logiciels de facturation internationaux (multi-pays/taxes), sites d'agences immobilières et bots de trading.
+  
 - 🤖 Passionné par l'**Intelligence Artificielle** : je développe actuellement un modèle IA de prédiction de résultats hippiques, ainsi qu'un **Agent IA local (MCP)** pour faciliter l'accès à la documentation interne d'entreprise.
+  
 - 🎯 **Opportunités** : Je recherche activement des **missions en freelance**, mais je reste ouvert à toute belle opportunité d'embauche.
+  
 - 🎭 **En dehors du code** : Grand fan de hockey sur glace 🏒, de sports de combat 🥊, de randonnée et d'échecs ♟️. J'aime l'art, le rap, et l'humour (et je replonge parfois pour une petite game de League of Legends).
 
 ### 🛠️ Ma Stack Technique
