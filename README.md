@@ -10,11 +10,28 @@
 - 🎭 **En dehors du code** : Grand fan de hockey sur glace 🏒, de sports de combat 🥊, de randonnée et d'échecs ♟️. J'aime l'art, le rap, et l'humour (et je replonge parfois pour une petite game de League of Legends).
 
 ### 🛠️ Ma Stack Technique
+
+**🧠 Intelligence Artificielle & Data**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,php,laravel,react,js,ts,git,mysql,html,css" alt="Mes compétences" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikit,pandas,numpy,jupyter" alt="IA et Data" />
   </a>
 </p>
+
+**🌐 Web & Backend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,php,laravel,react,js,ts,html,css" alt="Web et Backend" />
+  </a>
+</p>
+
+**⚙️ Outils & Base de données**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,git,github,mysql,postgres,docker,linux" alt="Outils et BDD" />
+  </a>
+</p>
+
 
 
 
