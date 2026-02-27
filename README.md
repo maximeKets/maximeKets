@@ -16,40 +16,14 @@
   </a>
 </p>
 
+
 ### 📈 Mes Statistiques GitHub
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=maximeKets&show_icons=true&theme=radical&locale=fr"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=maximeKets&show_icons=true&theme=radical&locale=fr"
-    />
-    <img
-      alt="Statistiques de maximeKets"
-      src="https://github-readme-stats.vercel.app/api?username=maximeKets&show_icons=true&theme=radical&locale=fr"
-      height="165"
-    />
-  </picture>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maximeKets&layout=compact&theme=radical&locale=fr"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maximeKets&layout=compact&theme=radical&locale=fr"
-    />
-    <img
-      alt="Langages principaux"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximeKets&layout=compact&theme=radical&locale=fr"
-      height="165"
-    />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maximeKets&theme=radical&hide_border=true&locale=fr" alt="Statistiques de maximeKets" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximeKets&layout=compact&theme=radical&hide_border=true&locale=fr" alt="Langages principaux" height="165" />
 </p>
+
 
 
 ### 📫 Discutons ensemble !
