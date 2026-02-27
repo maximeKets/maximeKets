@@ -16,13 +16,13 @@
   </a>
 </p>
 
-
 ### 📈 Mes Statistiques GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maximeKets&theme=radical&hide_border=true&locale=fr" alt="Statistiques de maximeKets" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximeKets&layout=compact&theme=radical&hide_border=true&locale=fr" alt="Langages principaux" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maximeKets&layout=compact&theme=radical&hide_border=true&locale=fr" alt="Langages principaux" height="165" />
 </p>
+
 
 
 
