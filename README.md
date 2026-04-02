@@ -33,7 +33,7 @@
 </p>
 
 
-
+<a href="https://app.daily.dev/max26"><img src="https://api.daily.dev/devcards/v2/wvJG9MnKSewRUlSzP7mD9.png?r=p5g&type=wide" width="652" alt="Maxime's Dev Card"/></a>
 
 
 
