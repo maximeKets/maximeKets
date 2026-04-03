@@ -1,4 +1,4 @@
-# Maxime Kets | AI Engineer & Full-Stack Developer 🤖
+# Maxime Kets | AI Engineer & Full-Stack Developer
 
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -42,7 +42,7 @@
 ### 📫 Let's talk tech
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxime_Kets-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maxime-kets/) 
- [![Portfolio](https://img.shields.io/badge/Portfolio-maximekets.me-white?style=flat-square&logo=browser)](https://www.maximekets.site/)
+ [![Portfolio](https://img.shields.io/badge/Portfolio-maximekets.site-green?style=flat-square&logo=browser)](https://www.maximekets.site/)
  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:maximekets80@gmail.com)
 
 ---
