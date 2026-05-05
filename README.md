@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/Agentic_AI-LangGraph_|_CrewAI-red?style=for-the-badge)
-![MCP](https://img.shields.io/badge/Protocol-MCP_Expert-orange?style=for-the-badge)
+![MCP](https://img.shields.io/badge/Protocol-MCP-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-green?style=for-the-badge)
 
 >  **Architecte de solutions IA et développeur Full-Stack.** 
